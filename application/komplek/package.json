@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@hint/hint-no-inline-styles": "^1.0.8"
+  }
+}
